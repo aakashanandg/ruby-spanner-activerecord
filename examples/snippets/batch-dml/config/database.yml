@@ -1,3 +1,4 @@
+# Batch DML Example Configuration
 development:
   adapter: spanner
   emulator_host: localhost:9010
